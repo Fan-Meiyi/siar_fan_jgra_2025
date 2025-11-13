@@ -1,0 +1,61 @@
+allgroups               The entire set of Geese isotope data
+bayesMVN                Bayesian MVN
+bayestwoNorm            Bayesian Independent Normal Distributions
+concdepdemo             Concentration dependence values for the geese
+                        demo data
+convexhull              Convex Hull
+correctionsdemo         Fractionation correction values for the geese
+                        data
+geese1demo              A single group of the geese data
+geese2demo              A multi-group version of the geese plasma data
+hullarea                Convex Hull Area
+laymanmetrics           Isotope-space Niche Width Metrics
+newgraphwindow          Opens a new graphics window on a variety of
+                        platforms
+overlap                 Area of overlap between two estimated ellipses
+panelcontour            Adds contours to a matrix plot
+panelcor                Adds correlations to a matrix plot
+panelhist               Adds histograms to the diagonal of a matrix
+                        plot
+plotSigmaEllipse        Plot an ellipse based on a correlation matrix
+popSEA                  Standard Ellipse Metrics for the Population
+siar-package            Stable Isotope Analysis in R.
+siaraddcross            Plotting tool for adding isotope bi-plot data
+                        to a figure
+siardemo                Runs the siar model and some nice plots for the
+                        siar package
+siardensityplot         SIAR's Custom Density Plot
+siarelicit              Elicit prior parameters for the Dirichlet
+                        distribution.
+siarhdrs                Creates hdrs and convergence diagnostics from
+                        siar output
+siarhistograms          Produce neat siar histograms
+siarloaddata            Loads in siar data
+siarmatrixplot          Matrix plots of siar output
+siarmcmcdirichletv4     MCMC for stable isotope data
+siarmenu                A list of menu options for running the siar
+                        package
+siarmultigrouprun       siar MCMC for multi-group data
+siarplotdata            Produces plots of target data and sources
+siarplotdatawrapper     Handles repeated plotting instructions for
+                        siarplotdata()
+siarplottarget          Plots the consumers' data in isotope space
+siarproportionbygroupplot
+                        siar proportion plots by group
+siarproportionbysourceplot
+                        siar proportion plots by source
+siarsaveoutput          Saves siar output to a file
+siarsinglegrouprun      siar MCMC for single group data
+siarsolomcmcv4          MCMC for stable isotope data with only single
+                        target organisms
+siarsolomultigrouprun   siar MCMC for multi-group data with only one
+                        target organism per group
+siarsolosinglegrouprun
+                        siar MCMC for single group data with only one
+                        organism
+siber.ellipses          The SIBER method for calculating ellipse based
+                        metrics of niche width
+siber.hull.metrics      The SIBER method for calculating Convex Hull
+                        based metrics of niche width
+sourcesdemo             Source (in this case plant) isotope values
+standard.ellipse        Standard Ellipse
